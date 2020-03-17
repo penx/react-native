@@ -210,7 +210,7 @@
     "ws": "^1.1.0",
     "xcode": "^0.8.9",
     "xmldoc": "^0.4.0",
-    "yargs": "^6.4.0",
+    "yargs": "^13.1.0",
     "yeoman-environment": "1.5.3",
     "yeoman-generator": "0.21.2"
   },
